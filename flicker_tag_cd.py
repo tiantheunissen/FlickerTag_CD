@@ -36,7 +36,7 @@ b_tag = '_2020_'
 # What tag to use for denoting results
 out_tag = '_2018-2020_'
 # what change classes do you want to tag with polygons?
-global_default_classes = [('addition class', 'green'), ('subtraction class', 'red')]
+global_default_classes = [('added building', 'green'), ('removed building', 'red'), ('uncertain', 'orange')]
 
 # ---------------------------------------------
 
